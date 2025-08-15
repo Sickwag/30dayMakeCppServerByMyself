@@ -1,0 +1,6 @@
+A project same as 30daymakecppserver, but this repository modifies the programming environment to windows and adds my own records of problems and understanding during the learning process.
+
+# 2025年8月15日17:18:26
+学习完成day01,
+- 修改所有文档和代码内容中的#include <sys/socket.h>和#include <arpa/inet.h>为windows平台用的头文件
+- 自己重写一遍，加入学籍记录到day01.md中
